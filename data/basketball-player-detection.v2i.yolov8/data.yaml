@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['basketball-player']
+
+roboflow:
+  workspace: bees-uafex
+  project: basketball-player-detection-0pgs1
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bees-uafex/basketball-player-detection-0pgs1/dataset/2
