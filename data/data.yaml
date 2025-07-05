@@ -1,9 +1,0 @@
-path: ./data/basketball-player-detection.v2i.yolov8 # Datset Root dir
-train: train/images # Train images (relative to path)
-val: valid/images # Val images (relative to path)
-
-
-
-# Classes 
-names:
-  0: basketball_player
