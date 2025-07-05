@@ -5,7 +5,7 @@ import cv2
 model = YOLO("runs/detect/train12/weights/best.pt")
 
 # Inference on a test image
-image_path = "data/basketball-player-detection.v2i.yolov8/test/images/suggested-uvSFq63zT73UH7Q9HC0L_jpg.rf.552147feba9707ac6d6c4525b3bb34c8.jpg"
+image_path = "data/basketball-player-detection.v4i.yolov8/test/images/suggested-OkHELcZMcDjRYc8Cx3U9_jpg.rf.4c6600d5d7ef15b4b4a13a2917f3dda2.jpg"
 image = cv2.imread(image_path)
 
 # Run inference
