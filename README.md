@@ -79,7 +79,7 @@ The `callbacks.py` file contains custom callback functions that can be used to e
 
 Annotated images are saved in `runs/detect/train*/`.
 
-![Sample Output](<!-- Failed to upload "training - Copy.mp4" -->)
+![Sample Output](![Image](https://github.com/user-attachments/assets/b51cc766-41af-4eae-8d68-42739a44098b))
 
 ## 📄 License
 
