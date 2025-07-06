@@ -79,7 +79,7 @@ The `callbacks.py` file contains custom callback functions that can be used to e
 
 Annotated images are saved in `runs/detect/train*/`.
 
-![Sample Output](![Image](https://github.com/user-attachments/assets/b51cc766-41af-4eae-8d68-42739a44098b))
+![Sample Output](![Image](https://github.com/user-attachments/assets/d029641f-d3d2-465f-9195-f88ec4479ba9))
 
 ## 📄 License
 
